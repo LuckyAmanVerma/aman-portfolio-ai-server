@@ -1,0 +1,204 @@
+Name: Aman Verma
+Title: Senior Software Engineer (7+ Years Experience)
+Location: Bhopal / Indore, Madhya Pradesh, India
+
+Contact:
+Phone: +91 7828934959
+Email: luckyamanverma1@gmail.com
+LinkedIn: https://www.linkedin.com/in/aman-verma-bb6806141
+Portfolio: https://aman-software-engineer.my.canva.site/
+GitHub Project: https://luckyamanverma.github.io/machine-code-interview/
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+
+Software Engineer with 7+ years of experience specializing in Frontend and UI Engineering. Focused on building scalable, high-performance, and user-centric web applications.
+
+Strong experience in:
+- React.js
+- TypeScript
+- Next.js
+- Redux
+- Modern JavaScript ecosystem
+- Scalable UI Systems
+- Atomic Design principles (Brad Frost)
+- Frontend System Design
+
+Hands-on experience in:
+- API integrations
+- Data-driven products
+- Performance optimization
+- Reusable component systems
+- Cloud deployment (AWS and Azure)
+- Payment gateway integrations (Adyen, Klarna, PayPal)
+- AWS ELB, Route 53, SNS
+- CloudFormation
+- Microsoft Azure App Service
+- Microsoft Entra PIM (JIT access)
+- Docker
+- Micro Frontends
+- GraphQL
+- MongoDB
+
+GitHub Copilot Certified. Actively using AI-assisted development to improve productivity, code quality, and secure workflows.
+
+Works in Agile / Scrum environments and actively contributes to:
+- Architecture discussions
+- Code reviews
+- System design decisions
+- Long-term product ownership
+
+Interests:
+Scalable UI systems, Product Engineering, Performance Optimization, AI-assisted Development.
+
+----------------------------------------
+TECH STACK
+----------------------------------------
+
+Frontend:
+React.js, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, SCSS, AG Grid
+
+Backend:
+Node.js, GraphQL
+
+Database:
+MongoDB
+
+Cloud:
+AWS (ELB, Route 53, SNS, CloudFormation)
+Microsoft Azure (App Service, Entra PIM)
+
+Dev Tools:
+Docker, Jest, Enzyme, GitHub Copilot
+
+----------------------------------------
+WORK EXPERIENCE
+----------------------------------------
+
+Company: LTIMindtree
+Duration: 2 years 1 month
+
+Role: Product Engineering Specialist
+Client: Honeywell
+Location: Indore, India
+Tech: React.js, TypeScript, Azure, APIs, GitHub Copilot, Figma
+
+Responsibilities:
+- Designed and enhanced a chat-based support interface for Honeywell products.
+- Built real-time API integrations for contextual responses.
+- Modernized legacy React components into Functional Components and Hooks.
+- Improved performance, rendering efficiency, and load times.
+- Developed reusable UI components (multi-select with chip selection).
+- Deployed React frontend on Azure App Service.
+- Implemented secure access via Microsoft Entra PIM (JIT).
+- Managed cache cleanup and static asset lifecycle.
+- Collaborated cross-functionally in Agile/Scrum environment.
+
+----------------------------------------
+
+Role: Senior Product Engineer (React.js Specialist)
+Client: Procter & Gamble
+Location: Indore, India
+Tech: React.js, Next.js, TypeScript, Tailwind CSS, AG Grid
+
+Responsibilities:
+- Designed scalable frontend solutions with backend integration.
+- Improved user engagement by 20%.
+- Built Segment Rule Visualizer using Next.js.
+- Implemented advanced AG Grid features with strong TypeScript typing.
+- Applied Design Thinking methodologies.
+
+----------------------------------------
+
+Client: UNICEF
+Role: Senior Product Engineer
+Tech: React.js, TypeScript, SCSS, Micro Frontends, Docker
+
+Responsibilities:
+- Built advanced dynamic form components.
+- Created custom grid systems with filtering.
+- Architected micro frontend modules.
+- Dockerized React applications for CI/CD consistency.
+
+----------------------------------------
+
+Company: Accenture
+Duration: 2 years 1 month
+Location: Pune, India
+
+Role: Custom Software Engineer Senior Analyst
+Client: Philip Morris International
+Tech: React.js, TypeScript, AWS, Adyen
+
+Responsibilities:
+- Contributed to frontend system design.
+- Implemented No-3DS credit card payment flow (Adyen).
+- Integrated frontend with AWS infrastructure.
+- Configured AWS ELB for high availability.
+- Designed Route 53 failover strategies.
+- Built AWS SNS event-driven notifications.
+- Participated in architecture and technical design reviews.
+
+----------------------------------------
+
+Role: Application Development Senior Analyst
+
+Responsibilities:
+- Integrated Adyen, Klarna, PayPal payment gateways.
+- Wrote test cases using Jest and Enzyme.
+- Built accident alert application using Socket API.
+- Implemented MongoDB Atlas dynamic search.
+
+----------------------------------------
+
+Company: Lumenore - A Netlink Platform
+Duration: 3 years 5 months
+Location: Bhopal, India
+
+Roles:
+- Senior Software Engineer
+- Software Engineer
+- Associate Software Engineer
+- Intern
+
+Key Contributions:
+- Built data dashboard integrating structured/unstructured data.
+- Implemented real-time data using Socket.io.
+- Implemented GraphQL for optimized API data fetching.
+- Implemented JWT authentication.
+- Integrated Google OAuth2.
+- Implemented localization using react-i18next.
+- Built Highcharts integrations.
+- Implemented auto-generated forms and survey modules.
+- Used Apache Spark for data export.
+
+----------------------------------------
+
+Freelance: MERN Stack Developer
+Duration: 5 months
+
+Responsibilities:
+- Built frontend applications using React.js.
+- Used ANTD and React Flow.
+- Implemented Google and LinkedIn OAuth.
+- Backend using Node.js and MongoDB.
+
+----------------------------------------
+
+EDUCATION
+----------------------------------------
+
+Bachelor of Engineering in Information Technology
+Truba Institute of Engineering & Information Technology
+2015 - 2019
+
+----------------------------------------
+
+Certifications:
+- Ultimate AWS Certified Developer Associate 2023 (DVA-C02)
+- Cloud Security Fundamentals
+- DevOps Essentials
+- MongoDB Aggregation
+- Introduction to Cloud Computing
+- GitHub Copilot Certified

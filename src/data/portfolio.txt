@@ -1,0 +1,123 @@
+Name: Aman Verma
+Title: Software Engineer
+Experience: 2019 - Present
+
+Tagline:
+Turning complex requirements into scalable, maintainable web applications.
+
+----------------------------------------
+CORE SKILLS
+----------------------------------------
+
+1. React.js
+Building scalable, optimized, high-performance user interfaces.
+
+2. Node.js
+Developing efficient APIs and backend services.
+
+3. Frontend Architecture
+Designing scalable, maintainable frontend systems using modular and Atomic Design principles.
+
+4. Build Tooling & Bundlers
+Webpack, Vite, Rollup, Babel.
+
+5. Design Systems
+Building reusable, accessible, and consistent UI components at scale.
+
+6. Team Leadership
+Driving frontend standards, mentoring engineers, and guiding architecture decisions.
+
+----------------------------------------
+FEATURED PROJECTS
+----------------------------------------
+
+Honeywell – Senior Product Engineer (Frontend)
+- Designed and developed a scalable chatbot platform for product workflows.
+- Built interactive chatbot system for product-related queries.
+- Designed reusable React components using TypeScript.
+- Supported scalable deployments on Microsoft Azure.
+- Implemented Micro Frontend architecture for independent deployment and scalability.
+
+Tech Stack:
+React.js, Redux, Material UI, Atomic Design, TypeScript, Azure
+
+----------------------------------------
+
+Procter & Gamble – Senior Product Engineer (Frontend)
+- Delivered enterprise-grade frontend solutions.
+- Led frontend development using Next.js, Tailwind CSS, and TypeScript.
+- Architected advanced AG Grid solutions for large-scale datasets.
+- Improved user engagement by 20%.
+- Improved performance and UX across the platform.
+
+Tech Stack:
+React.js, TypeScript, Tailwind CSS, AG Grid, Micro Frontend
+
+----------------------------------------
+
+Philip Morris International – Senior Analyst (Frontend)
+- Led frontend architecture for secure, transaction-driven enterprise applications.
+- Architected and integrated PayPal and Credit Card payment workflows.
+- Optimized asynchronous data handling using React Query.
+- Improved reliability and performance of user-critical frontend flows.
+- Defined frontend best practices and reusable patterns.
+
+Tech Stack:
+React.js, TypeScript, React Query, Payment Gateways, AWS
+
+----------------------------------------
+
+Lumenore – Senior Software Engineer (Fullstack)
+- Contributed to frontend architecture for analytics dashboards.
+- Designed scalable frontend dashboards using React.js and Highcharts.
+- Built data-driven UI systems.
+- Collaborated with backend using Node.js and MongoDB.
+- Stabilized reusable component patterns across dashboards.
+
+Tech Stack:
+React.js, Node.js, MongoDB, Redux, Ant Design, Highcharts
+
+----------------------------------------
+TECHNICAL EXPERTISE
+----------------------------------------
+
+Frontend:
+React.js (7+ years), Redux, TypeScript, SCSS, HTML5, Vite, Webpack, Atomic Design
+
+Backend:
+Express.js, MongoDB, MySQL, WebSockets
+
+Tools:
+Jest, Enzyme, Passport.js, OAuth 2.0, GitHub Copilot
+
+Specializations:
+Micro Frontends
+UI Performance Optimization
+Frontend System Design
+Payment Gateway Integration
+Real-time Data Handling
+
+Practices:
+Agile
+CI/CD
+Code Reviews
+TDD
+Feature-based architecture
+Monorepo
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+
+GitHub Copilot Certified
+DevOps, Cloud, and Agile Foundations – IBM
+Developing Frontend Application with React – IBM
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+Bachelor of Technology (B.Tech)
+Truba Institute of Engineering and Information Technology
+2015 – 2019
+CGPA: 8.2

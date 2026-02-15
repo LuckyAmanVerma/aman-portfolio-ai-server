@@ -1,0 +1,167 @@
+Name: Aman Verma
+Title: Senior Product Engineer
+Experience: 7+ Years
+Location: Indore / Pune / Bhopal, India
+
+Contact:
+Mobile: +91 7828934959
+Email: luckyamanverma1@gmail.com
+LinkedIn: https://www.linkedin.com/in/aman-verma-bb6806141/
+Portfolio: aman-software-engineer.my.canva.site/
+GitHub: github.com/LuckyAmanVerma
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+
+Senior Product Engineer with 7+ years of experience designing and building scalable, high-performance web applications using React, TypeScript, Node.js, and modern JavaScript ecosystems.
+
+Strong expertise in:
+- Frontend system design
+- UI architecture
+- Micro-frontend ecosystems
+- Atomic Design principles
+- Scalable state management
+- Performance optimization
+
+Proven ability to:
+- Lead teams
+- Drive architectural decisions
+- Deliver user-centric solutions at scale
+- Modernize legacy frontend systems
+
+----------------------------------------
+CORE EXPERIENCE HIGHLIGHTS
+----------------------------------------
+
+- Created advanced UI components including multi-select systems, selection modals for large datasets, dynamic forms, and filterable custom grids using React, TypeScript, and SCSS.
+- Designed scalable UI systems including notification systems, dynamic filters, and high-performance data grids.
+- Implemented Micro Frontend architecture enabling independent deployment and scalability.
+- Implemented centralized state management using Redux Toolkit.
+- Worked with Webpack and Vite to optimize build processes and development workflows.
+- Led a team of 4 engineers in rewriting legacy frontend systems, increasing product functionality by 35%.
+
+----------------------------------------
+WORK EXPERIENCE
+----------------------------------------
+
+Company: LTIMindtree
+Role: Senior Product Engineer
+Duration: Feb 2024 – Present
+Location: Indore, Madhya Pradesh
+
+Responsibilities:
+- Designed and developed an interactive chatbot for product-related queries.
+- Built reusable React.js components using TypeScript.
+- Supported scalable deployments on Microsoft Azure.
+- Ensured performance optimization and cloud reliability.
+
+----------------------------------------
+
+Company: Accenture Solutions Pvt. Ltd
+Role: Senior Analyst
+Duration: Jan 2022 – Feb 2024
+Location: Pune, Maharashtra
+
+Responsibilities:
+- Integrated 3DS Credit Card and Tabby payment systems in React.js.
+- Developed enterprise-grade frontend applications serving 40K+ customers.
+- Reduced HTTP requests by 80% and improved dashboard load time by 2.5x.
+- Implemented OAuth 2.0 authentication flows.
+- Wrote unit and integration tests using Jest and Enzyme.
+
+----------------------------------------
+
+Company: Netlink Software Pvt. Ltd
+Role: Software Engineer (Associate to Senior)
+Duration: Jan 2019 – Jan 2022
+Location: Bhopal, Madhya Pradesh
+
+Responsibilities:
+- Built dynamic dashboards using React, Highcharts, and React-Bootstrap.
+- Implemented real-time UI updates using React and data streams.
+- Optimized React applications using React.memo and useMemo.
+- Improved MongoDB query performance using Atlas Search indexing.
+- Implemented social login authentication using Passport.js.
+
+----------------------------------------
+MAJOR CLIENT PROJECTS
+----------------------------------------
+
+Honeywell
+- Built interactive chatbot platform.
+- Designed reusable React components.
+- Supported Azure cloud deployments.
+
+Phillip Morris International
+- Integrated PayPal and Credit Card payment gateways.
+- Optimized asynchronous tasks using React Query.
+
+Procter & Gamble
+- Built frontend systems using Next.js and Tailwind.
+- Implemented AG Grid with TypeScript.
+- Improved engagement by 20%.
+
+Unilever
+- Built custom grid systems with filtering.
+- Implemented Micro Frontends.
+
+Sirius XM
+- Built dynamic configurable forms.
+- Improved application performance using React optimization patterns.
+
+Orion
+- Implemented secure refresh-token authentication.
+- Improved performance using lazy loading techniques.
+
+Lumenore
+- Developed data-driven dashboards using React and Node.js.
+- Built scalable frontend architecture.
+
+----------------------------------------
+TECHNICAL SKILLS
+----------------------------------------
+
+Frontend:
+React.js (7+ years), Redux, TypeScript, SCSS, HTML5, Vite, Webpack, Atomic Design
+
+Backend:
+Express.js, MongoDB, MySQL, WebSockets
+
+Testing:
+Jest, Enzyme
+
+Authentication:
+Passport.js, OAuth 2.0
+
+Expertise:
+Micro Frontends
+UI Performance Optimization
+Frontend System Design
+Payment Gateway Integration
+Real-time Data Handling
+
+Development Practices:
+Agile
+CI/CD
+Code Reviews
+TDD
+Feature-based Architecture
+Monorepo
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+
+GitHub Copilot Certified
+DevOps, Cloud, and Agile Foundations – IBM
+Developing Frontend Application with React – IBM
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+Bachelor of Technology (B.Tech)
+Truba Institute of Engineering and Information Technology
+2015 – 2019
+CGPA: 8.2
