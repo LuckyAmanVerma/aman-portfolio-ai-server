@@ -205,9 +205,7 @@ Currently deployed on **Render.com**:
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Frontend** | React portfolio with integrated AI chat | [GitHub Repository](https://github.com/your-username/portfolio-frontend) |
-| **Machine Code** | Interview coding challenges & solutions | [Machine Code Interview](../machine-code-interview) |
-| **Portfolio** | Main portfolio website using this backend | [View Online](https://aman-verma.dev) |
+| **Frontend** | React portfolio with integrated AI chat | [GitHub Repository](https://github.com/LuckyAmanVerma/machine-code-interview) 
 
 ---
 
