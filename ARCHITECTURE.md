@@ -11,6 +11,7 @@ The assistant:
 - Prevents hallucination through context restriction
 - Blocks out-of-scope questions
 - Ensures deterministic behavior
+- Backend Url :- https://aman-portfolio-ai-server.onrender.com/api/*
 
 
 ## 2. High-Level Request Flow
