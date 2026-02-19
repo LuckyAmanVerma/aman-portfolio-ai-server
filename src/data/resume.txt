@@ -88,33 +88,33 @@ Responsibilities:
 MAJOR CLIENT PROJECTS
 ----------------------------------------
 
-Honeywell
+Honeywell  (LTIMindtree Project)
 - Built interactive chatbot platform.
 - Designed reusable React components.
 - Supported Azure cloud deployments.
 
-Phillip Morris International
+Phillip Morris International (Accenture Project)
 - Integrated PayPal and Credit Card payment gateways.
 - Optimized asynchronous tasks using React Query.
 
-Procter & Gamble
+Procter & Gamble  (LTIMindtree Project)
 - Built frontend systems using Next.js and Tailwind.
 - Implemented AG Grid with TypeScript.
 - Improved engagement by 20%.
 
-Unilever
+Unilever  
 - Built custom grid systems with filtering.
 - Implemented Micro Frontends.
 
-Sirius XM
+Sirius XM  (Netlink Project)
 - Built dynamic configurable forms.
 - Improved application performance using React optimization patterns.
 
-Orion
+Orion  (Netlink Project)
 - Implemented secure refresh-token authentication.
 - Improved performance using lazy loading techniques.
 
-Lumenore
+Lumenore  (Netlink Product)
 - Developed data-driven dashboards using React and Node.js.
 - Built scalable frontend architecture.
 
@@ -123,7 +123,7 @@ TECHNICAL SKILLS
 ----------------------------------------
 
 Frontend:
-React.js (7+ years), Redux, TypeScript, SCSS, HTML5, Vite, Webpack, Atomic Design
+React.js (7+ years), Redux, TypeScript, SCSS, HTML5, Vite, Webpack, Atomic Design , Monolithic Architecture , Microfrontend , Design patterns , SOLID patterns 
 
 Backend:
 Express.js, MongoDB, MySQL, WebSockets
@@ -135,6 +135,8 @@ Authentication:
 Passport.js, OAuth 2.0
 
 Expertise:
+Feature Based Design 
+Atomic Design
 Micro Frontends
 UI Performance Optimization
 Frontend System Design

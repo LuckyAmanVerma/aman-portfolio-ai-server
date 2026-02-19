@@ -1,5 +1,5 @@
 Name: Aman Verma
-Title: Software Engineer
+Title: Senior Software Engineer
 Experience: 2019 - Present
 
 Tagline:
@@ -80,6 +80,9 @@ React.js, Node.js, MongoDB, Redux, Ant Design, Highcharts
 ----------------------------------------
 TECHNICAL EXPERTISE
 ----------------------------------------
+
+Skills wise experience:
+React - 7 Years , Node.js -3 Years Typescript 2 Years MongoDB - 2 Years 
 
 Frontend:
 React.js (7+ years), Redux, TypeScript, SCSS, HTML5, Vite, Webpack, Atomic Design
