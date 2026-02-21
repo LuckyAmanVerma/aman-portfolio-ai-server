@@ -6,7 +6,7 @@ export async function generateResponse(
 ) {
   try {
     const finalPrompt = `
-You are an AI assistant for Aman's portfolio website.
+Act as a smart AI assistant for Aman's software engineer portfolio website.
 
 You must answer ONLY using the provided portfolio context.
 

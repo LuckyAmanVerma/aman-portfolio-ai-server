@@ -124,3 +124,37 @@ Bachelor of Technology (B.Tech)
 Truba Institute of Engineering and Information Technology
 2015 – 2019
 CGPA: 8.2
+
+------------------------------------------
+COMPANY EXPERIENCE
+------------------------------------------
+
+{
+  "experience": [
+    {
+      "company": "LTIMindtree",
+      "role": "Senior Product Engineer",
+      "duration": "2024–Present",
+      "technologies": ["React.js", "TypeScript", "Material UI", "Azure","Feature based architecture","ATOMIC DESIGN"],
+      "Tasks": ["Design frontend architecture", "Optimize chatbot platform", "Implement Micro Frontend architecture","Optimize legacy codebase","Tradeoffs and best practices"],
+        "Projects": ["Honeywell- Senior Product Engineer(Frontend)"]
+    }
+    {
+      "company": "Accenture",
+      "role": "Frontend Developer",
+      "duration": "2022–2024",
+      "technologies": ["React.js", "Redux", "JavaScript","Typescript","Jest"],
+      "tasks": ["Internal dashboard", "Client analytics tool"],
+      "Projects": ["Phillip Morris International- Senior Analyst(Frontend)"]
+    },
+    {
+      "company": "Netlink",
+      "role": "Software Engineer",
+      "duration": "2019–2022",
+      "technologies": ["React.js", "Node.js", "GraphQL", "MongoDB"],
+      "tasks": ["Data visualization platform","Dashboard pages","Analytics tools","Custom UI components"],
+      "Projects": ["Lumenore- Software Engineer Fullstack (Associate to Senior)"]
+    },
+    
+  ]
+}

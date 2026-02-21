@@ -75,7 +75,7 @@ Dev Tools:
 Docker, Jest, Enzyme, GitHub Copilot
 
 ----------------------------------------
-WORK EXPERIENCE
+WORK EXPERIENCE , COMPANIES
 ----------------------------------------
 
 Company: LTIMindtree
